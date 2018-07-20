@@ -9,3 +9,5 @@ Requirements atau Fitur yang harus ada pada aplikasi Dicoding
 3.Halaman setting untuk mengganti bahasa atau localization. Aplikasi harus mendukung bahasa Indonesia dan bahasa Inggris.
 
 4.Semua fungsi dari fitur project sebelumnya (Submission Project Catalogue Movie) harus tetap berjalan.
+
+*ps merupakan hasil dari referensi semua teman2 yang ada di gituhub. Thankyou before
