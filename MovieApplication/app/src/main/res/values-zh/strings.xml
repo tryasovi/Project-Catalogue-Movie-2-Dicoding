@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">影片目錄</string>
+    <string name="masukan_judul">搜尋影片</string>
+    <string name="nama_movie">影片名稱</string>
+    <string name="cari">搜尋</string>
+    <string name="cari_sm">搜尋</string>
+    <string name="judul">名稱</string>
+    <string name="deskripsi">簡介</string>
+    <string name="tanggal">發布日期</string>
+
+    <string name="now_playing">最新影片</string>
+    <string name="upcoming">即將上映</string>
+    <string name="movie">影片</string>
+    <string name="category">組別</string>
+    <string name="home">首頁</string>
+
+    <string name="navigation_drawer_open">開啟 navigation drawer</string>
+    <string name="navigation_drawer_close">關閉 navigation drawer</string>
+
+    <string name="action_settings">設定</string>
+    <string name="favorite">我的最愛</string>
+    <string name="share">分享其他</string>
+    <string name="email_trya">tryasovi@yahoo.com</string>
+    <string name="name_trya">TryaSovi</string>
+</resources>
